@@ -10,7 +10,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-xl navbar-light bg-light">
         <div className="container">
         <Link className="nav-link active" to={"https://localhost:44393/View/Login.aspx" }target="_blank">
-        <h1 className="title" style={{ margin: '6px',color:"Green" }}>N-MART</h1>
+        <h1 className="title" style={{ margin: '6px',color:"Green" }}>N-STOCKS</h1>
                 </Link>
                 
                 <NavLink

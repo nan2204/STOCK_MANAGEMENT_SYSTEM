@@ -16,7 +16,7 @@ export default function Header() {
         <p>
           Welcome to
           <br />
-          <h3>"N-MART"</h3>
+          <h3>"STOCKS"</h3>
         </p>
         </div>
         <div className="buttonmain">
@@ -28,7 +28,7 @@ export default function Header() {
             target="_blank"
             // style={{ margin: "3px" }}
           >
-           Supermarket Management Login
+           STOCK MANAGEMENT SYSTEM
           </NavLink>
           <br/>
           <NavLink type="button" className="btn btn-primary" to={`/home`}>
@@ -90,7 +90,7 @@ export default function Header() {
               
               
               <p>
-                <MDBIcon icon="print" className="me-3" /> +91 97622 14179
+                <MDBIcon icon="print" className="me-3" /> +91 9345833432
               </p>
             </MDBCol>
           </MDBRow>
